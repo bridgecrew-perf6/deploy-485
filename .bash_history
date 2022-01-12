@@ -167,3 +167,178 @@ git push -u origin master
 git remote add origin https://github.com/petkov52/deploy.git
 git push all
 git pull
+cd root
+ls
+ssh-key
+ssh-keygen
+cat /root/.ssh/id_rsa.pub
+echo "# deploy" >> README.md
+ls
+vim README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/petkov52/deploy.git
+git push -u origin main
+$ ssh-keygen -t ecdsa-sk -C <email address> 
+ssh-keygen -t ecdsa-sk -C <email address>a
+email address
+ssh-keygen -t ecdsa-sk -C <aagrach@gmail.com>
+ssh-keygen -t ecdsa-sk -C aagrach@gmail.com
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:petkov52/deploy.git
+git push -u origin main
+git add myproject dir
+git add myprojectdir
+git push -u main
+git push -u origin main
+git pull -u origin main
+git pull  origin main
+ls
+cd myprojectdir
+ls
+git add .
+git status
+git push -u origin main
+git init
+git push -u origin main
+git commit -m "second commit"
+git push -u origin main
+git remote add origin https://github.com/petkov52/deploy.git
+git push -u origin main
+git status
+git commit -m "3 commit"
+git push https://github.com/petkov52/deploy.git -u origin main
+src refspec origin does not match any
+git remote add origin git@github.com:petkov52/deploy.git
+git add .
+git commit -m "4 commit"
+git push origin master
+git status
+ls
+git status
+пше дщп
+git log
+git init
+git status
+git add .
+git status
+git commit -m "4 commit"
+git remote add origin git@github.com:petkov52/deploy.git
+git push https://github.com/petkov52/deploy.git -u origin main
+git pull  origin main
+git pull https://github.com/petkov52/deploy.git  origin main
+git pull https://github.com/petkov52/deploy.git  -m origin main
+git pull https://github.com/petkov52/deploy.git  -u origin main
+git pull https://github.com/petkov52/deploy.git  --coomit origin main
+git pull https://github.com/petkov52/deploy.git  origin main
+git pull https://github.com/petkov52/deploy.git   main
+git push https://github.com/petkov52/deploy.git   main
+git commit -m "initial commit"
+mkdir repo && cd repo
+git remote add origin https://github.com/petkov52/deploy.git
+git add .
+git commit -m "initial commit"
+git push origin master
+git --patch
+git -c
+git log -p -2
+ls
+cd .
+cd /
+ls
+cd toot
+cd root
+ls
+git add .
+git commit -m "initial commit"
+git push origin master
+git branch -M main
+git push -u origin main
+cd root
+ls
+git add myprojecrdir
+cd myprojectdir
+ls
+git add .
+git commit -m "my dir"
+ls
+git status
+git add manage.py
+git status
+git add --all
+git status
+git push -u origin main
+git push https://github.com/petkov52/deploy.git  origin main
+git reset --hard HEAD
+git add .
+git status
+git add manage.py
+cd /
+ls
+cd bin
+ls
+cd .
+cd /
+ls
+cd var
+ls
+cd usr
+cd ..
+cd usr
+ls
+cd root
+cd ..
+cd root
+ls
+cd myprojectdir
+ls
+root@petkov-galkin:~/myprojectdir# push
+git config
+git config  --global
+git config --global
+git config --get
+git config [--global]
+git add .
+git status
+git push origin main
+git remote -v
+git remote rm https://github.com/ploshadka/repository.git
+git ls-tree HEAD
+git remote
+git remote rm origin
+git remote
+git add .
+git status
+git add --all
+git status
+git worktree add .
+git worktree
+git worktree list
+git push -u origin main
+git push -u original main
+git commit -m "initial commit1"
+rm -rf .git
+git init
+git add .
+git commit - m "5 message"
+git commit -m "5 message"
+git push original main
+git push  origin main
+git status
+git push origin HEAD:main
+git push -u
+git remote git@github.com:petkov52/deploy.git
+git remote add git@github.com:petkov52/deploy.git
+git remote add -m git@github.com:petkov52/deploy.git
+git remote add -u git@github.com:petkov 52/deploy.git
+git remote add -m https://github.com/petkov52/deploy.git
+git remote add origin https://github.com/petkov52/deploy.git
+git push  origin main
+src refspec main does not match any
+git commit -m "initial commidsft"
+git staus
+git status
